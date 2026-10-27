@@ -1,5 +1,7 @@
 # Forgejo
 
+> Fork of [dariogriffo/forgejo-debian](https://github.com/dariogriffo/forgejo-debian) (MIT); the original packaging is by Dario Griffo. Served at [deb.gaofn.xyz](https://deb.gaofn.xyz) for Debian 12 (bookworm) and 13 (trixie).
+
 Forgejo is a self-hosted lightweight software forge.
 Easy to install and low maintenance, it just does the job.
 
